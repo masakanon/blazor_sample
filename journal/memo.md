@@ -13,4 +13,6 @@ dotnet new blazorwasmmin
 dotnet run
 ```
 * Welcome to Blazor!のページが表示される
+    * ひとまずwwwrootのindex.htmlは最低限のものにした
 * リポジトリ管理はどこまでする必要があるか
+    * bin,obj,Propertiesは含めない
