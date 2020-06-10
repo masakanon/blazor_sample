@@ -43,3 +43,8 @@ dotnet run
         ```
          git push --delete origin {branch}
         ```
+
+# 20200610メモ
+* Pagesがない状態で実行するとwwwroot/index.htmlがそのまま表示される
+* Pagesにindex.razorを追加してみる(ClCalcからコピー)
+    * 起動時エラーになる
